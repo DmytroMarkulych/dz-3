@@ -1,0 +1,49 @@
+{
+  "name": "Ivan",
+  "surname": "Petrov",
+  "age": 20,
+  "gender": "male",
+  "student_id": "AB123456",
+  "year": 3,
+  "average_score": 85.5,
+  "subjects": ["Mathematics", "Physics", "Chemistry"],
+  "address": {
+    "city": "Kyiv",
+    "street": "Shevchenko Street",
+    "house": 10,
+    "apartment": null
+  },
+  "contact": {
+    "email": "ivan.petrov@example.com",
+    "phone": {
+      "country_code": "+380",
+      "number": "123456789"
+    }
+  },
+  "health": {
+    "conditions": ["headache", "cold"],
+    "allergies": null,
+    "immunization": true
+  },
+  "additional_info": {
+    "hobbies": ["football", "drawing"],
+    "clothing_size": {
+      "top": "M",
+      "bottom": "L"
+    }
+  },
+  "family": {
+    "father": {
+      "name": "Oleg",
+      "surname": "Petrov",
+      "age": 45,
+      "occupation": "engineer"
+    },
+    "mother": {
+      "name": "Natalia",
+      "surname": "Petrova",
+      "age": 42,
+      "occupation": "teacher"
+    }
+  }
+}
